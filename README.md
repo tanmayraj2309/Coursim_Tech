@@ -1,10 +1,10 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://ed-tech-wine-omega.vercel.app/)
+# Coursim_Tech  Online Education Platform (MERN App) [Website Link](https://ed-tech-wine-omega.vercel.app/)
 
 ![Main Page](images/mainpage.png)
 
 ## Project Description
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+Coursim_Tech is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
 StudyNotion aims to provide:
